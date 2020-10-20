@@ -1,0 +1,13 @@
+main {
+  /*Now since I have my vector loaded up, I'm going to center it.*/
+  height: 100vh;
+}
+.svg-full {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-size: 26px;
+  text-align: center;
+}
